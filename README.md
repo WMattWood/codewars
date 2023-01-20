@@ -6,7 +6,11 @@ only katas of 5kyu difficulty and up have been included.
 
 **JAVASCRIPT**
 
-To run tests from inside the `js` folder run 
+To run tests from inside the 'js' folder run:
+
 ```$ yarn test```
-or if you wish to run tests for a specific kata you can run
+
+Or if you wish to run tests for a specific kata you can run:
+
 ```$ yarn test <kataFileName>```
+
