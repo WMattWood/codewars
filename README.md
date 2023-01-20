@@ -5,7 +5,8 @@ The testing is performed using `jest` and `chai` on the JavaScript side.
 
 Only katas of 5kyu difficulty and up have been included.
 
-#**JAVASCRIPT**
+#
+**JAVASCRIPT**
 
 To run tests from inside the 'js' folder run:
 
