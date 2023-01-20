@@ -12,7 +12,7 @@ To install the testing suite navigate into the `js` folder and run:
 
 ```$ yarn install```
 
-To run tests from inside the 'js' folder run:
+To run tests from inside the `js` folder run:
 
 ```$ yarn test```
 
