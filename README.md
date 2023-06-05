@@ -5,6 +5,8 @@ The testing is performed using `jest` and `chai` on the JavaScript side.
 
 Only katas of 5kyu difficulty and up have been included.
 
+Check out my profile including all solutions [here!](https://www.codewars.com/users/WMattWood)
+
 #
 **JAVASCRIPT**
 
